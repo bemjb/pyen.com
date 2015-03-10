@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/bemjb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pyen.com
+  * I am bemjb (https://keybase.io/bemjb) on keybase.
+  * I have a public key with fingerprint 8B3E E282 9125 DAD5 07BD  7F95 FC6F 1C2A 5941 8CA8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8b3ee2829125dad507bd7f95fc6f1c2a59418ca8",
+            "host": "keybase.io",
+            "key_id": "fc6f1c2a59418ca8",
+            "kid": "010199bb175cb016cd054bc17aeae87d82b42c59f1a96f21741ed611748fe250154c0a",
+            "uid": "164dc8b86c777185106b44069687fd00",
+            "username": "bemjb"
+        },
+        "service": {
+            "hostname": "pyen.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1426004387,
+    "expire_in": 157680000,
+    "prev": "e1ceb072c04a0e852ffaea724169d1e5827e09b4399f0c5efa5044964a9c8fbb",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIeAnicbVJbSBRRGN5Vu7gkBEFtkiaTRJnJOeOZOTNrRbJUlARaVhTFMufMGR3N
+nW0vXhK3G/lUtGkXgorc7i/dIOiGdr8g+CCUZJmFRRupaUZQYnVG6q3z8nO+//u+
+/8L/MC3Z4XK6t6/4UNh6dczZfs8TcZT+nnm6XiCWXid46oVKNh4M01/GgoGg6Q8L
+HkEh+YyJiqhCUdI1XQKY6NhQJYPKBqSiJqkIKlRThFyh3ArZCm5DtBDLMy2O8Y/P
+1Dn6H37leAJAAFWVEIglSgCUqQ4kRCjEGtOYgnVFJEikkmpATZUNEWIEmS5DHhWD
+iRKAEqJA43aRcTsoI50qRJEpxhgqEgQyQQjIqqxgQwfAJoZY0K9VMc4mrKqCCA25
+AoeqTcrs+e0x/qYDdcyfR60qLgoErbBFra0cLQ+HAx5bFK4L2KwaRnx/9T5i+nW+
+Py6oZsGQafkFD+RMGjZtQ4hEGQCUr+BcgdUGzCDzmTZDwrIC+LPLsGpuySBlBGCR
+AqQBpkiiYfB1YBFBWdUhkxQRM6ASlK+qBqASMzQJIKTKSFOpYhAi2BNt81t2Sd6n
+VsY9Q2aZXwtHgkxouH93c4rD6XJMnJBkn4DDlTr132H43k36mTT/bXZ3zsHyli2O
+scwMeGCkMDt9f/x45NjK9FjnjM/Ra/XplyvntZaXkFjqtIGWxPXHkUTxi7aCB2du
+Hf7+bnVzbWttw/rX6sFjr/Z5L+QsGz40OBrJWvxr1DvlxpPsmb9PfC513/Fq63u0
+uScWfHy/rqZo+cDRliOz1kzp+BpNa2tiY3Hn7h+uU0/b5y3LS4537VuaWbTz5a5o
+iXM4ntiErzR1jHjfFPc2zor1xRujd7trSH/B4Mn+rjnfNqDV3b1d1eTRkslnYxnt
+PZ9mX5gzN2VH29rS24Wem1PdQ4sSQ+6tWbG9zavujD5LqhD2JE9fcun5uYsbt3cm
+7er78nDh/R3nJyX+AFHDKzc=
+=h0LR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bemjb
+
+==================================================================
+
